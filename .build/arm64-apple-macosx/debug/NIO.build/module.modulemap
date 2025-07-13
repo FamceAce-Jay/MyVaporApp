@@ -1,0 +1,4 @@
+module NIO {
+    header "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/NIO.build/NIO-Swift.h"
+    requires objc
+}

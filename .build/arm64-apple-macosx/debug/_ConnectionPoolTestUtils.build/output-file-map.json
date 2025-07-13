@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/master.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/.build/checkouts/postgres-nio/Sources/ConnectionPoolTestUtils/MockClock.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockClock.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockClock.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockClock~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockClock.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/.build/checkouts/postgres-nio/Sources/ConnectionPoolTestUtils/MockConnection.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockConnection.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockConnection.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockConnection~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockConnection.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/.build/checkouts/postgres-nio/Sources/ConnectionPoolTestUtils/MockConnectionFactory.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockConnectionFactory.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockConnectionFactory.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockConnectionFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockConnectionFactory.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/.build/checkouts/postgres-nio/Sources/ConnectionPoolTestUtils/MockPingPongBehaviour.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockPingPongBehaviour.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockPingPongBehaviour.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockPingPongBehaviour~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockPingPongBehaviour.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/.build/checkouts/postgres-nio/Sources/ConnectionPoolTestUtils/MockRequest.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockRequest.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockRequest.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/MockRequest.swiftdeps"
+  }
+}

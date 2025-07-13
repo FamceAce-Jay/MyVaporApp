@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/MetricsTestKit.build/master.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/.build/checkouts/swift-metrics/Sources/MetricsTestKit/TestMetrics.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.swiftdeps"
+  }
+}

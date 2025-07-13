@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/Sources/App/Migrations/CreateUser.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/CreateUser.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/CreateUser.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/CreateUser~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/CreateUser.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/Sources/App/Models/User.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/User.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/User.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/User.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/Sources/App/configure.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/configure.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/configure.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/configure.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/Sources/App/routes.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/routes.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/routes.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/App.build/routes.swiftdeps"
+  }
+}

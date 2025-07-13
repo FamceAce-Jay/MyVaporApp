@@ -1,0 +1,17 @@
+
+
+
+# 数据库主机
+DB_HOST=localhost
+
+# 数据库端口
+DB_PORT=3306
+
+# 数据库用户名
+DB_USER=root
+
+# 数据库密码（请与下面创建用户时保持一致）
+DB_PASSWORD=f9d6047d87f34fd2f14958c41f95b5bc
+# 数据库名
+DB_NAME=my_database
+

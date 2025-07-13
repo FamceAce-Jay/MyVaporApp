@@ -1,0 +1,17 @@
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaderValidator.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaders+Validation.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypedPipelineSetup.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOTypedHTTPClientUpgradeHandler.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOTypedHTTPClientUpgraderStateMachine.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOTypedHTTPServerUpgradeHandler.swift
+/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOTypedHTTPServerUpgraderStateMachine.swift

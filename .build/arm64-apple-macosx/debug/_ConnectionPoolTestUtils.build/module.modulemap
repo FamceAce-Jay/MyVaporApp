@@ -1,0 +1,4 @@
+module _ConnectionPoolTestUtils {
+    header "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolTestUtils.build/_ConnectionPoolTestUtils-Swift.h"
+    requires objc
+}

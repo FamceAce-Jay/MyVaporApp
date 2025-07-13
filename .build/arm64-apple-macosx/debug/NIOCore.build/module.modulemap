@@ -1,0 +1,4 @@
+module NIOCore {
+    header "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/NIOCore.build/NIOCore-Swift.h"
+    requires objc
+}

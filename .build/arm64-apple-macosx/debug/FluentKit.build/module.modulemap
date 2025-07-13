@@ -1,0 +1,4 @@
+module FluentKit {
+    header "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/FluentKit.build/FluentKit-Swift.h"
+    requires objc
+}

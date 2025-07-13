@@ -1,0 +1,4 @@
+module HTTPTypesFoundation {
+    header "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/HTTPTypesFoundation.build/HTTPTypesFoundation-Swift.h"
+    requires objc
+}

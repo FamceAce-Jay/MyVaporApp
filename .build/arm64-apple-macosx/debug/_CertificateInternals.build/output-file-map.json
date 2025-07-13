@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_CertificateInternals.build/master.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/.build/checkouts/swift-certificates/Sources/_CertificateInternals/_TinyArray.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_CertificateInternals.build/_TinyArray.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_CertificateInternals.build/_TinyArray.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_CertificateInternals.build/_TinyArray~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_CertificateInternals.build/_TinyArray.swiftdeps"
+  }
+}

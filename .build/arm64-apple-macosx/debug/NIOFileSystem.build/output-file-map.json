@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/NIOFileSystem.build/master.swiftdeps"
+  },
+  "/Users/Jay/MyVaporApp/.build/checkouts/swift-nio/Sources/_NIOFileSystemExported/Exports.swift": {
+    "dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/NIOFileSystem.build/Exports.d",
+    "object": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/NIOFileSystem.build/Exports.swift.o",
+    "swiftmodule": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/NIOFileSystem.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/NIOFileSystem.build/Exports.swiftdeps"
+  }
+}

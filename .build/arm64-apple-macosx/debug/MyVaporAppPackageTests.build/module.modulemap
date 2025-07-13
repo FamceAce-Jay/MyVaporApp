@@ -1,0 +1,4 @@
+module MyVaporAppPackageTests {
+    header "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/MyVaporAppPackageTests.build/MyVaporAppPackageTests-Swift.h"
+    requires objc
+}

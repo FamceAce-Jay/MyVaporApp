@@ -1,0 +1,4 @@
+module _ConnectionPoolModule {
+    header "/Users/Jay/MyVaporApp/.build/arm64-apple-macosx/debug/_ConnectionPoolModule.build/_ConnectionPoolModule-Swift.h"
+    requires objc
+}
